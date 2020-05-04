@@ -1,0 +1,22 @@
+{
+  "name": "role-bot",
+  "version": "1.0.0",
+  "description": "Role bot for Paradise server thing for that one kid",
+  "main": "mainthingyy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M00NL16H7/Role-bot.git"
+  },
+  "author": "M00N13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M00NL16H7/Role-bot/issues"
+  },
+  "homepage": "https://github.com/M00NL16H7/Role-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
